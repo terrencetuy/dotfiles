@@ -11,5 +11,6 @@ set softtabstop=4
 set bg=dark
 set smartindent
 set incsearch
+set ai
 
 :filetype on
